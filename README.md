@@ -8,3 +8,6 @@ Well...add this lib as a provided dependency to your java6 lib and you can compi
 
 # Why
 Have you ever been on one of those legacy platforms that still is java 6 or java 7?
+
+# TODO
+Figure out how to get past the restricted class loader, maybe with an agent? http://stackoverflow.com/questions/3804442/why-java-lang-securityexception-prohibited-package-name-java-is-required
